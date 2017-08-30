@@ -1,4 +1,4 @@
-angular.module('angular-flip', [])
+angular.module('angularflip', [])
 .directive('flip', function() {
     return {
         restrict: 'E',
